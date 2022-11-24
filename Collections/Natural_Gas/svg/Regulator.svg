@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg4487"
+   width="321.14532"
+   height="339.54703"
+   viewBox="0 0 321.14532 339.54703"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4491" />
+  <g
+     id="g4495"
+     transform="matrix(1.3333333,0,0,-1.3333333,-250.39999,700.90705)">
+    <g
+       id="g4497"
+       transform="translate(305.94,520.68)">
+      <path
+         d="M 0,0 H 117.72 L 0,-90.66"
+         fill="param(fill) #fff" stroke="param(outline) #000" stroke-width="param(outline-width) 1"
+         id="path4499" />
+    </g>
+    <g
+       id="g4501"
+       transform="translate(188.16,407.34)">
+      <path
+         d="M 0,0 117.78,-67.98 H 0"
+         fill="param(fill) #fff" stroke="param(outline) #000" stroke-width="param(outline-width) 1"
+         id="path4503" />
+    </g>
+    <g
+       id="g4505"
+       transform="translate(423.66,407.34)">
+      <path
+         d="M 0,0 V -67.98 H -117.72"
+         fill="param(fill) #fff" stroke="param(outline) #000" stroke-width="param(outline-width) 1"
+         id="path4507" />
+    </g>
+    <g
+       id="g4509"
+       transform="translate(188.16,339.36)">
+      <path
+         d="M 0,0 H 117.78 L 0,-67.98"
+         fill="param(fill) #fff" stroke="param(outline) #000" stroke-width="param(outline-width) 1"
+         id="path4511" />
+    </g>
+    <g
+       id="g4513"
+       transform="translate(305.94,339.36)">
+      <path
+         d="M 0,0 H 117.72 V -67.98"
+         fill="param(fill) #fff" stroke="param(outline) #000" stroke-width="param(outline-width) 1"
+         id="path4515" />
+    </g>
+    <g
+       id="g4517"
+       transform="translate(423.66,407.34)">
+      <path
+         d="M 0,0 V -135.96 L -235.5,0 v -135.96 z"
+         fill="param(fill) #fff" stroke="param(outline) #000" stroke-width="param(outline-width) 1"
+         id="path4519" />
+    </g>
+    <g
+       id="g4521"
+       transform="translate(305.94,343.9273)">
+      <path
+         d="M 0,0 V 176.753 H 117.72 L 0,88.376"
+         fill="param(fill) #fff" stroke="param(outline) #000" stroke-width="param(outline-width) 1"
+         id="path4523" />
+    </g>
+  </g>
+</svg>
